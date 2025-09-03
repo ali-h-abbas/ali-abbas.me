@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ali's Career Journey","created":"2025-08-28T19:56:49.932-04:00","modified":"2025-08-28T20:12:41.718-04:00","tags":["career"],"cssclasses":""}
+{"publish":true,"title":"Ali's Career Journey","created":"2025-08-28","modified":"2025-08-30T09:31:43.552-04:00","tags":["career"],"cssclasses":""}
 ---
 
 Ali went to high school with a dumb-flip phone, experienced the peak of the blackberry by the 12th grade, while some of the cool kids brandished these new fandangled "iPhones."
