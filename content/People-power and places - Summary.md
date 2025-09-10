@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"People-power and places","description":"A summary of some key takeaways from the panel I featured on at Civic Spark 2025","created":"2025-09-03T12:33:42.404-04:00","modified":"2025-09-03T12:42:27.812-04:00","tags":["speaking","socialimpact"],"cssclasses":""}
+{"publish":true,"title":"People-power and places","description":"A summary of some key takeaways from the panel I featured on at Civic Spark 2025","created":"2025-09-03T20:55:44.718-04:00","modified":"2025-09-03T20:55:49.855-04:00","tags":["speaking","socialimpact"],"cssclasses":""}
 ---
 
 Q: *What is the link between volunteering and building leadership in equity-deserving populations?*
