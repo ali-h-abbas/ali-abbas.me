@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Moon Series 01, Eclipse 01: Surrender & Connection in the Waters of Pisces","description":"Reflections on holding space for reflective practice rooted in community and storytelling.","created":"2025-09-10","modified":"2025-09-22T16:55:46.958-04:00","tags":["events","speaking"],"cssclasses":""}
+{"publish":true,"title":"Moon Series 01, Eclipse 01: Surrender & Connection in the Waters of Pisces","description":"Reflections on holding space for reflective practice rooted in community and storytelling.","created":"2025-09-10","modified":"2025-09-22T16:59:56.423-04:00","tags":["events","speaking"],"cssclasses":""}
 ---
 
 *The following is a summary & reflections relating to the workshop discussion hosted on September 7th, 2025 in collaboration with [Electric Sunshine Co.](https://www.electricsunshine.co/)*
@@ -16,7 +16,7 @@ The experience of this loss however crushed this fear into a soluble dust. Was I
 
 From the container of my grief, I found the purpose to offer something to my community—an event that would connect us back to what it means to be human.
 
-![[attachments/500px-Albrecht_Dürer_-_Melencolia_I_-_Google_Art_Project_(_AGDdr3EHmNGyA).jpg|300]]
+![[attachments/500px-Albrecht_Dürer_-_Melencolia.jpg|300]]
 # The Seed of New Beginnings
 With that guiding question in mind, the time had come to turn my personal practice into a public offering. The event I envisioned would be a space for collective exploration, a true new beginning where we could all experience the lunar cycles together.
 
