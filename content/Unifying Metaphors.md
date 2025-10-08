@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Unifying Metaphors","created":"2025-10-08","modified":"2025-10-08T15:17:38.128-04:00","tags":["innovation","creativity","language"],"cssclasses":""}
+{"publish":true,"title":"Unifying Metaphors","created":"2025-10-08","modified":"2025-10-08T15:20:17.475-04:00","tags":["innovation","creativity","language"],"cssclasses":""}
 ---
 
 >How do we understand the world, if there are different versions of it to reconcile? Is it important which models and metaphors we bring to bear on our reality? And, if it is, why has one particular model come to dominate us so badly that we hardly notice its pervasiveness? What do these models tell us about the words that relate us to the world at large – ‘know’, ‘believe’, ‘trust’, ‘want’, ‘grasp’, ‘see’ – that both describe and, if we are not careful, prescribe the relationship we have with it? ... the importance of metaphor is that it underlies all forms of understanding whatsoever, science and philosophy no less than poetry and art.
+>
 >**Iain McGilchrist**, British psychologist, neuroscientist, and philosopher. *The Master and his Emissary*
 
 ![[Philosophy/attachments/Saturn-Neptune - Edited (1).png|Source: @seekoneness on Instagram]]
-
 # Metaphorical Schisms
 The question posed in the quotation above, strikes at the heart of human experience in the modern era. There's a constant negotiation of boundaries between the rigorous logic of "science" and the boundless mystery of "spirituality." Among the circles I run in there's often a quiet acknowledgement of the spiritual world, albeit wrapped in the shameful colloquialism of "woo-woo."
 
@@ -26,7 +26,6 @@ In both cases we have an individual or collective community looking to describe 
 The recognition of this is essential to artists, scientists, entrepreneurs, and leaders in the context of a world where the **limitation** of our language locks us into boxes where we may not belong: limiting our ability to move through the world with ease and grace.
 
 # From Division to Multiplication
-
 When we see the fundamental congruence between seemingly disparate concepts, we unlock profound potential for **understanding, innovation, and creativity.**
 
 1. **Deeper Understanding:** By looking _through_ the language (science/spirituality) and _at_ the underlying truth (boundary/potential), we access a more complete view of reality. We stop seeing disciplines as rivals and start seeing them as complimentary lenses focusing on shared principles.
