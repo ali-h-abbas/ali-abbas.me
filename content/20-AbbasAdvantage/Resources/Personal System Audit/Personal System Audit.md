@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-10-17T16:05:57.992-04:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
+{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-10-17T16:14:25.870-04:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
 ---
 
 If you're tired of playing a character in someone else's script—or if you feel blocked from stepping into your full creative power—you have to audit the **sub-optimal patterns** running in your inner world.
@@ -63,6 +63,7 @@ You have successfully audited a key system blockage. You've identified the Patte
 This is the foundation of genuine transformation.
 
 Looking to accelerator your transformation? I offer 1:1 Coaching to walk alongside individuals, professionals and creatives in becoming who it is they wish to be.
-[Schedule a Discovery call.](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2YyjZVvFwGV1YQiQjlcsAtGT5p2HCJ-xXeJU_xIfqAUe1qkMi4XbPK_rAofcjO40i6rCe_4xMx)
+[Schedule a Discovery call.](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2YyjZVvFwGV1YQiQjlcsAtGT5p2HCJ-xXeJU_xIfqAUe1qkMi4XbPK_rAofcjO40i6rCe_4xMx).
+
 Want to stay engaged on my work? Join the mailing list. There is a lot in the works, including opportunity to connect live (no strings attached).
 <script async data-uid="368edab25e" src="https://alchemical-ali.kit.com/368edab25e/index.js"></script>
