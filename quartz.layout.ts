@@ -43,6 +43,14 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Recent Notes",
+        limit: 5,
+        showTags: true,
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

@@ -42,9 +42,28 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      // Check if modified date exists and is different from created date
+      const modifiedDate = fileData.dates?.modified
+      const createdDate = fileData.dates?.created
+      
+      // Compare dates by day, not timestamp, to handle cases where created is just a date
+      // and modified includes time
+      const showModified = modifiedDate && createdDate && 
+        (modifiedDate.getFullYear() !== createdDate.getFullYear() ||
+         modifiedDate.getMonth() !== createdDate.getMonth() ||
+         modifiedDate.getDate() !== createdDate.getDate())
+
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
           {segments}
+          {showModified && (
+            <>
+              <br />
+              <span class="modified-date">
+                Modified on <Date date={modifiedDate} locale={cfg.locale} />
+              </span>
+            </>
+          )}
         </p>
       )
     } else {

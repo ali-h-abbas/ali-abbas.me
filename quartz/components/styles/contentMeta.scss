@@ -1,6 +1,10 @@
 .content-meta {
   margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
   color: var(--darkgray);
+  font-style: italic;
+  line-height: 1.5;
 
   &[show-comma="true"] {
     > *:not(:last-child) {
@@ -10,5 +14,11 @@
         content: ",";
       }
     }
+  }
+
+  &.modified-date {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
   }
 }
