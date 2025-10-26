@@ -1,3 +1,41 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Center all images */
+img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Style figure elements (images with captions) */
+figure {
+  margin: 1rem 0;
+  text-align: center;
+}
+
+figure img {
+  margin: 0 auto;
+}
+
+/* Style figcaption (image captions) */
+figcaption {
+  display: block;
+  margin: 0.75rem 1rem 1rem 1rem;
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: rgb(115, 115, 115);
+  text-align: center;
+}
+
+/* Keep support for manual captions (italic text after images) */
+p > img + em {
+  display: block;
+  margin: 0.75rem 1rem 1rem 1rem;
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: rgb(115, 115, 115);
+  text-align: center;
+  transform: translateY(-0.5rem);
+}

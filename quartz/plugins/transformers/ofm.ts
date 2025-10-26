@@ -683,6 +683,43 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         })
       }
 
+      // Wrap images with alt text in figure/figcaption elements
+      plugins.push(() => {
+        return (tree: HtmlRoot, _file) => {
+          visit(tree, "element", (node, index, parent) => {
+            if (
+              node.tagName === "img" &&
+              node.properties?.alt &&
+              typeof node.properties.alt === "string" &&
+              node.properties.alt.trim() !== "" &&
+              parent &&
+              index !== undefined
+            ) {
+              const figure: Element = {
+                type: "element",
+                tagName: "figure",
+                properties: {},
+                children: [
+                  node,
+                  {
+                    type: "element",
+                    tagName: "figcaption",
+                    properties: {},
+                    children: [
+                      {
+                        type: "text",
+                        value: node.properties.alt as string,
+                      },
+                    ],
+                  },
+                ],
+              }
+              parent.children[index] = figure
+            }
+          })
+        }
+      })
+
       if (opts.mermaid) {
         plugins.push(() => {
           return (tree: HtmlRoot, _file) => {
