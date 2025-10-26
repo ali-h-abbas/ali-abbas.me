@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"So what do you do? Part 1","created":"2025-10-20","modified":"2025-10-21T20:01:40.461-04:00","tags":["discovery","personal-development","entrepreneurship"],"cssclasses":""}
+{"publish":true,"title":"So what do you do? Part 1","created":"2025-10-20","modified":"2025-10-26T18:56:56.072-04:00","tags":["#discovery","#personal-development","#entrepreneurship","#Writing"],"cssclasses":""}
 ---
 
 I find the process of networking and engaging with others to be endlessly self illuminating. For much of my career a networking event meant dressing in my one ill-fitting suit, cleaned up to an ideal of what it meant to look professional, sweating my ass off from a cocktail of cortisol, caffeine and generalized anxiety.

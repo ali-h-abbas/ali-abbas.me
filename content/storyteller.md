@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Descendants of Storytellers","description":"An essay that explores the idea that human language arose not from simple survival needs, but from our ancient impulse to tell stories. It argues that our first and greatest muse was the cosmos itself—the daily journey of the sun and the cycles of the moon. By learning to share these epic narratives, we forged collective identities, defined abstract values like honor and beauty, and began building a world filled with shared meaning.","created":"2025-08-28T18:49:27.071-04:00","modified":"2025-08-28T19:39:26.647-04:00","tags":["essay"],"cssclasses":""}
+{"publish":true,"title":"The Descendants of Storytellers","description":"An essay that explores the idea that human language arose not from simple survival needs, but from our ancient impulse to tell stories. It argues that our first and greatest muse was the cosmos itself—the daily journey of the sun and the cycles of the moon. By learning to share these epic narratives, we forged collective identities, defined abstract values like honor and beauty, and began building a world filled with shared meaning.","created":"2025-08-28","modified":"2025-09-10T12:59:33.913-04:00","tags":["essay"],"cssclasses":""}
 ---
 
 ## The Origin of Language
