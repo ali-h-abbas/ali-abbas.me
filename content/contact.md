@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2025-10-26T18:55:48.992-04:00","cssclasses":""}
+{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2025-10-26T19:03:45.506-04:00","cssclasses":""}
 ---
 
 # Get in Touch
@@ -8,11 +8,17 @@ I'm always interested in connecting with people who are curious about the inters
 ## Ways to Connect
 
 **Explore my services:** https://abbasadvantage.com
+
 **For a Complimentary Coaching Discovery Call**: [book here](https://calendar.app.google/XZjVd8NpVrRKbkJL8)
+
 **For General Inquiries, Conversations and Other Engagements**: [book here](https://calendar.app.google/XzcqcS9paetxYriUA)
+
 **Email:** coming soon!
+
 **LinkedIn**: [Ali Abbas](https://www.linkedin.com/in/alihusseinabbas/)
+
 **BlueSky**: [@Abbasadvantage](https://bsky.app/profile/abbasadvantage.com)
+
 **Substack/Newsletter**: [Your Newsletter](https://yoursubstack.com)
 
 ## What I'm Open To
