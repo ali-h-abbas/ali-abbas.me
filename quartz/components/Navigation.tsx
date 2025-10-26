@@ -11,8 +11,8 @@ interface NavigationOptions {
 const defaultOptions: NavigationOptions = {
   links: [
     { text: "Home", link: "/" },
-    { text: "Writing", link: "/10-Words" },
-    { text: "Speaking", link: "/speaking" },
+    { text: "Writing", link: "/tags/writing" },
+    { text: "Speaking", link: "/tags/speaking" },
     { text: "Contact", link: "/contact" },
   ],
 }

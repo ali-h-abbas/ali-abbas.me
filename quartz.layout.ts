@@ -39,7 +39,14 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Hide tags folder and specific pages from explorer
+        return node.slugSegment !== "tags" && 
+               node.slugSegment !== "about" && 
+               node.slugSegment !== "contact"
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -71,7 +78,14 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // Hide tags folder and specific pages from explorer
+        return node.slugSegment !== "tags" && 
+               node.slugSegment !== "about" && 
+               node.slugSegment !== "contact"
+      },
+    }),
   ],
   right: [],
 }
