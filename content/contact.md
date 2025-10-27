@@ -1,8 +1,6 @@
 ---
-{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2025-10-26T19:03:45.506-04:00","cssclasses":""}
+{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2025-10-27T17:12:08.454-04:00","cssclasses":""}
 ---
-
-# Get in Touch
 
 I'm always interested in connecting with people who are curious about the intersection of technology, consciousness, and transformation.
 ## Ways to Connect
