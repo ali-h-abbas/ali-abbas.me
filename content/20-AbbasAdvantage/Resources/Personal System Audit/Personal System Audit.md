@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-10-17T16:14:25.870-04:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
+{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-10-19T10:51:42.067-04:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
 ---
 
 If you're tired of playing a character in someone else's script—or if you feel blocked from stepping into your full creative power—you have to audit the **sub-optimal patterns** running in your inner world.
 
-The core of this blockage is often a subconscious [[10-Blog/System Audit for the Self\|Pattern]]: a cluster of emotionally charged ideas that operate outside your conscious control, sabotaging your best intentions. I've based this worksheet off of [Steven Kessler's 5 Personality Patterns.](https://amzn.to/4799sIY), which you can read some of my reflections on [[10-Blog/System Audit for the Self\|here]].
+The core of this blockage is often a subconscious [[10-Words/System Audit for the Self\|Pattern]]: a cluster of emotionally charged ideas that operate outside your conscious control, sabotaging your best intentions. I've based this worksheet off of [Steven Kessler's 5 Personality Patterns.](https://amzn.to/4799sIY), which you can read some of my reflections on [[10-Words/System Audit for the Self\|here]].
 
 Otherwise, dive in and use this 3-step audit to diagnose your most active Pattern and begin your personal **Reboot.**
 *Note: If you're in active crisis, and your emotions are too big to hold, please be kind to yourself, seek the required help, and come back to this only when you have the capacity.*

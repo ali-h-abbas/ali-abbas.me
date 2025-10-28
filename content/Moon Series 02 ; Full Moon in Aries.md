@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Moon Series 02, Full Moon in Aries","description":"Notes following our second event","created":"2025-10-04","modified":"2025-10-26T19:05:26.803-04:00","tags":["speaking","experience-design","astrology","events"],"cssclasses":""}
+{"publish":true,"title":"Moon Series 02, Full Moon in Aries","description":"Notes following our second event","created":"2025-10-04","modified":"2025-10-26T19:05:26.803-04:00","tags":["#speaking","#experience-design","#astrology","#events"],"cssclasses":""}
 ---
 
 Fire is the passion to be.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"About Ali","description":"Landing page and about Ali","created":"2025-08-25","modified":"2025-10-26T18:43:48.317-04:00","cssclasses":""}
+{"publish":true,"title":"About Ali","description":"Landing page and about Ali","created":"2025-08-25","modified":"2025-10-27T06:34:35.812-04:00","cssclasses":""}
 ---
 
 Over a lifetime of dedication to understanding humanity's place on the planet earth, Ali Abbas serves as a [[storyteller]], guide, and bridge. He stands at the confluence of the tangible systems and technologies that govern our lives and the deep, inner truths of who we are. For Ali, the languages of business, science, art, and spirituality are not separate disciplines, but essential parts of a single human story.
