@@ -1,6 +1,8 @@
 ---
-{"publish":true,"title":"The Stage Manager","description":"An internal archetype working closely with the persona","created":"2025-10-25","modified":"2025-10-27T19:45:43.345-04:00","tags":["#archetypes","#psychology","#InnerArchitecture","#jung"],"cssclasses":""}
+{"publish":true,"title":"The Stage Manager","description":"An internal archetype working closely with the persona","created":"2025-10-25","modified":"2025-10-27T20:51:58.302-04:00","tags":["#archetypes","#psychology","#InnerArchitecture","#jung","#concepts-connections"],"cssclasses":""}
 ---
+
+
 
 An [[20-Philosophy/Archetypes/Archetype]] who's job it is to manage external impressions, respond to judgments, and govern self-presentation. Not in the lens of "faking it", but in terms of establishing success in relationships to others and selectively choosing to emphasize or downplay certain elements of personality relative to the environment.
 

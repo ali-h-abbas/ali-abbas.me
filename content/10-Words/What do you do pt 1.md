@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"So what do you do? Part 1","description":"A personal journey through career transformation - from corporate anxiety to entrepreneurial discovery, and the evolving answer to 'What do you do?","created":"2025-10-20","modified":"2025-10-27T19:44:50.622-04:00","tags":["#discovery","#personal-development","#entrepreneurship","#writing"],"cssclasses":""}
+{"publish":true,"title":"So what do you do? Part 1","description":"A personal journey through career transformation - from corporate anxiety to entrepreneurial discovery, and the evolving answer to 'What do you do?","created":"2025-10-20","modified":"2025-10-27T20:50:15.316-04:00","tags":["#personal-development","#entrepreneurship","#writing","#essays-exploration"],"cssclasses":""}
 ---
 
 I find the process of networking and engaging with others to be endlessly valuable in the process of self-discovery. For much of my career a networking event meant dressing in my one ill-fitting suit, cleaned up to an ideal of what it meant to look professional, sweating my ass off from a cocktail of cortisol, caffeine and generalized anxiety.
