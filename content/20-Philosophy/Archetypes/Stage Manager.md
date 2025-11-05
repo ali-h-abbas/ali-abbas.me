@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Stage Manager","description":"An internal archetype working closely with the persona","created":"2025-10-25","modified":"2025-10-27T20:51:58.302-04:00","tags":["#archetypes","#psychology","#InnerArchitecture","#jung","#concepts-connections"],"cssclasses":""}
+{"publish":true,"title":"The Stage Manager","description":"An internal archetype working closely with the persona","created":"2025-10-25","modified":"2025-10-27T20:51:58.302-04:00","tags":["archetypes","psychology","InnerArchitecture","jung","concepts-connections"],"cssclasses":""}
 ---
 
 

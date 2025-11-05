@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Cosmos","created":"2025-08-29","modified":"2025-09-10T12:09:40.405-04:00","tags":["philosophy/ontology","concept"],"cssclasses":""}
+{"publish":true,"aliases":"Cosmos","created":"2025-08-29","modified":"2025-10-17T10:40:01.443-04:00","tags":["#philosophy/ontology","#concept"],"cssclasses":""}
 ---
 
 The contextual understanding of All Things as components of a cohesive whole. 

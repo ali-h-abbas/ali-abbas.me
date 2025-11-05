@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Moon Series 01, Eclipse 01: Surrender & Connection in the Waters of Pisces","description":"Reflections on holding space for reflective practice rooted in community and storytelling.","created":"2025-09-10","modified":"2025-10-27T20:43:52.194-04:00","tags":["#speaking","#experience-design","#astrology","#writing","#experiences-and-offerings"],"cssclasses":""}
+{"publish":true,"title":"Moon Series 01, Eclipse 01: Surrender & Connection in the Waters of Pisces","description":"Reflections on holding space for reflective practice rooted in community and storytelling.","created":"2025-09-10","modified":"2025-11-04T21:11:55.562-05:00","tags":["#speaking","#experience-design","#astrology","#writing","#experiences-and-offerings"],"cssclasses":""}
 ---
 
 *The following is a summary & reflections relating to the workshop discussion hosted on September 7th, 2025 in collaboration with [Electric Sunshine Co.](https://www.electricsunshine.co/)*

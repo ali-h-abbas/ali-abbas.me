@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Ali's Career Journey","created":"2025-08-28","modified":"2025-10-27T20:41:15.585-04:00","tags":["#career","#writing","#essays"],"cssclasses":""}
+{"publish":true,"title":"Ali's Career Journey","created":"2025-08-28","modified":"2025-11-04T21:11:39.424-05:00","tags":["#career","#writing","#essays"],"cssclasses":""}
 ---
 
 ## Education & Early Career

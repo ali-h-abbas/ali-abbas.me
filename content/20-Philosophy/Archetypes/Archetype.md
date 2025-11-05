@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Archetypes: Universal Patterns of the Psyche","description":"Explore Jung's archetypes as universal patterns of the psyche. Discover how the Hero, Shadow, Great Mother & Self shape consciousness, dreams & human meaning","created":"2025-10-27","modified":"2025-10-27T20:50:39.514-04:00","tags":["#archetypes","#psychology","#InnerArchitecture","#jung","#essays-exploration"],"cssclasses":""}
+{"publish":true,"title":"Archetypes: Universal Patterns of the Psyche","description":"Explore Jung's archetypes as universal patterns of the psyche. Discover how the Hero, Shadow, Great Mother & Self shape consciousness, dreams & human meaning","created":"2025-10-27","modified":"2025-11-03T10:28:29.302-05:00","tags":["archetypes","psychology","InnerArchitecture","jung","essays-exploration"],"cssclasses":""}
 ---
 
 >Our psyche is set up in accord with the structure of the universe, and what happens in the macrocosm likewise happens in the infinitesimal and most subjective reaches of the psyche.

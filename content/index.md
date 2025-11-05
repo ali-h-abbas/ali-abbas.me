@@ -16,7 +16,7 @@ I work with individuals and organizations navigating the complexities of change,
 
 ## Recent Work
 
-[[CCSBE 2025 - The Hero's Journey - Understanding Entrepreneurial Resilience through Narrative Identity, Presence, and Well-Being]]
+[[10-Words/CCSBE 2025 - The Hero's Journey - Understanding Entrepreneurial Resilience through Narrative Identity, Presence, and Well-Being]]
 
 ## Getting Started
 
