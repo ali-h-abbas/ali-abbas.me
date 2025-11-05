@@ -49,7 +49,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        depth: 3, // Show nodes up to 3 hops away
+      },
+    }),
     Component.ConditionalRender({
       component: Component.RecentNotes({
         title: "Recent Notes",

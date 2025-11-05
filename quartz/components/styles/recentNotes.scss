@@ -8,6 +8,31 @@
     list-style: none;
     margin-top: 1rem;
     padding-left: 0;
+    
+    // Mobile: add max-height and scroll to prevent clipping
+    @media (max-width: 600px) {
+      max-height: 60vh;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding-right: 0.5rem;
+      
+      // Smooth scrolling
+      scroll-behavior: smooth;
+      
+      // Custom scrollbar styling
+      &::-webkit-scrollbar {
+        width: 4px;
+      }
+      
+      &::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      
+      &::-webkit-scrollbar-thumb {
+        background: var(--gray);
+        border-radius: 2px;
+      }
+    }
 
     & > li {
       margin: 1rem 0;
@@ -18,6 +43,26 @@
       .section > .meta {
         margin: 0 0 0.5rem 0;
         opacity: 0.6;
+      }
+      
+      // Tags container - single line with overflow handling
+      .section > ul.tags {
+        list-style: none;
+        padding: 0;
+        margin: 0.5rem 0 0 0;
+        display: flex;
+        flex-wrap: nowrap;
+        overflow: hidden;
+        gap: 0.4rem;
+        
+        & > li {
+          flex-shrink: 0;
+          margin: 0;
+          
+          & > a {
+            white-space: nowrap;
+          }
+        }
       }
     }
   }
