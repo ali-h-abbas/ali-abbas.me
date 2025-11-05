@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"So what do you do? Part 1","created":"2025-10-20","modified":"2025-10-26T18:56:56.072-04:00","tags":["#discovery","#personal-development","#entrepreneurship","#Writing"],"cssclasses":""}
+{"publish":true,"title":"So what do you do? Part 1","description":"A personal journey through career transformation - from corporate anxiety to entrepreneurial discovery, and the evolving answer to 'What do you do?","created":"2025-10-20","modified":"2025-11-04T21:26:07.446-05:00","tags":["personal-development","entrepreneurship","writing","essays-exploration"],"cssclasses":""}
 ---
 
-I find the process of networking and engaging with others to be endlessly self illuminating. For much of my career a networking event meant dressing in my one ill-fitting suit, cleaned up to an ideal of what it meant to look professional, sweating my ass off from a cocktail of cortisol, caffeine and generalized anxiety.
+I find the process of networking and engaging with others to be endlessly valuable in the process of self-discovery. For much of my career a networking event meant dressing in my one ill-fitting suit, cleaned up to an ideal of what it meant to look professional, sweating my ass off from a cocktail of cortisol, caffeine and generalized anxiety.
 
 There's a lot at stake when you haven't quite figured out who you are, and the only template is what you've been told you *should* be.
 
-Of all the formats of humans getting together to interact it's the most psychologically fascinating to me. As I've come to see myself as somewhat of a cultural anthropologist on the nature of how human's come together in the name of commerce, both the words that are reflected to me and *through* me tell me very different things than the words that come out of me when I am at a sunday picnic or at a hike with friends.
+Of all the formats of humans getting together to interact it's the most psychologically fascinating to me. I now see myself as a cultural anthropologist studying how humans gather in the name of commerce. The words reflected to me -and through me -feel very different than the simple conversation I have at a Sunday picnic or on a hike.
 
 Sure, I've traded my trained corporate nature for one of an embodied, experienced professional - but the part of me that recognizes the environment as a stage is eager to come out to play.
 
@@ -31,7 +31,7 @@ Less commonly would be someone who had been doing the Consultant dance much long
 
 As a new, self-labelled entrepreneur this was a hard question to answer. I could speak in terms of what I *had* done in my career, but there was no active engagement in front of me.
 
-So the internal stage manager got to work, had a word with the internal playwright, and decided it was time to shift the story.
+So the internal [[20-Philosophy/Archetypes/Stage Manager\|stage manager]] got to work, had a word with the internal playwright, and decided it was time to shift the story.
 ## I'm sick of doing. I'm just being.
 
 It was at one of these networking-y shindigs where through this dance of seeking authentic connection matched to a mode of being that might pay my bills I started to talk about my consulting approach in very esoteric terms.
@@ -47,6 +47,10 @@ I called it the **Evolutionary Development Framework**. It was the Hegelian dial
 
 I started to flash this up on my screen during coffee-chats. It was clear this was not consulting - it was too abstract. I had no clear offering, it didn't map to something the people I had met with in terms of what they had seen work and resonate.
 
-That was, until someone pointed out that maybe I wasn't a consultant, that perhaps I was a coach.
+That was, until someone pointed out that maybe I wasn't a consultant, that perhaps I was a coach. Aho! The exact sort of self-discovery I had been working towards.
 
-Exit consultant stage right. Enter coach. 
+A consultant advises on what to *do.* A coach advises on *being.* 
+
+If you've made it this far it is probably not a surprise to you that my stage manager was elated with this discovery. It was time for a new narrative.
+
+Exit consultant stage right. Enter coach.
