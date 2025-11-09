@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":["System Dynamics"],"description":"Discover the scienceof how complex systems behave over time through feedback loops, delays, and non-linear relationships. Learn how internal structures drive system behavior and why understanding stocks, flows, and leverage points is crucial for navigating everything from economic cycles to ecosystem changes.","created":"2025-11-09","modified":"2025-11-09T14:54:46.842-05:00","tags":["#systems","#dynamics","#concept"],"cssclasses":""}
+{"publish":true,"aliases":"","title":"System Dynamics","description":"Discover the scienceof how complex systems behave over time through feedback loops, delays, and non-linear relationships. Learn how internal structures drive system behavior and why understanding stocks, flows, and leverage points is crucial for navigating everything from economic cycles to ecosystem changes.","created":"2025-11-09","modified":"2025-11-09T15:00:12.109-05:00","tags":["systems","dynamics","concept"],"cssclasses":""}
 ---
 
 
