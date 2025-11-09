@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Emergence","description":"Discover how emergence in system dynamics reveals the fascinating principle where simple interactions between components create complex, unpredictable behaviours and patterns that define everything from consciousness to market dynamics.","created":"2025-11-09","modified":"2025-11-09T14:27:04.832-05:00","tags":["systems","dynamics","concept"],"cssclasses":""}
+{"publish":true,"title":"Emergence","description":"Discover how emergence in system dynamics reveals the fascinating principle where simple interactions between components create complex, unpredictable behaviours and patterns that define everything from consciousness to market dynamics.","created":"2025-11-09","modified":"2025-11-09T14:38:49.230-05:00","tags":["#systems","#dynamics","#concept"],"cssclasses":""}
 ---
 
 Emergence represents the fundamental principle in [[system dynamics]] where collective behaviours arise from the interactions of individual components, creating patterns and properties that cannot be predicted from studying the parts in isolation. This phenomenon forms the bridge between [[25-Systems/reductionism]] and [[holism]], demonstrating how systems generate novelty through the interplay of [[feedback loops]], [[nonlinearity]], and temporal evolution.

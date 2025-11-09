@@ -1,11 +1,11 @@
 ---
-{"publish":true,"aliases":"","title":["System Dynamics"],"description":"Discover the scienceof how complex systems behave over time through feedback loops, delays, and non-linear relationships. Learn how internal structures drive system behavior and why understanding stocks, flows, and leverage points is crucial for navigating everything from economic cycles to ecosystem changes.","created":"2025-11-09","modified":"2025-11-09T14:53:55.291-05:00","tags":["#systems","#dynamics","#concept"],"cssclasses":""}
+{"publish":true,"aliases":"","title":["System Dynamics"],"description":"Discover the scienceof how complex systems behave over time through feedback loops, delays, and non-linear relationships. Learn how internal structures drive system behavior and why understanding stocks, flows, and leverage points is crucial for navigating everything from economic cycles to ecosystem changes.","created":"2025-11-09","modified":"2025-11-09T14:54:46.842-05:00","tags":["#systems","#dynamics","#concept"],"cssclasses":""}
 ---
 
 
 System dynamics represents the study of complex systems' behaviour over time, examining how [[feedback loops]], delays, and non-linear relationships create patterns of change. At its core, this discipline reveals how systems generate their own behaviour through internal structure rather than external forces alone.
 
-If [[25-Systems/systems thinking]] is the mindset - [[25-Systems/system dynamics]]
+If [[25-Systems/systems thinking]] is the mindset - [[25-Systems/system dynamics]] is the math.
 
 The field emerged from Jay Forrester's work at MIT in the 1950s, originally applied to industrial dynamics before expanding to encompass urban planning, ecology, and social systems. System dynamics recognizes that [[causality]] in complex systems rarely flows in straight lines - instead, effects circle back to become causes through reinforcing and balancing feedback mechanisms. These circular causalities, combined with [[time delays]] between causes and effects, produce the counterintuitive behaviours that characterize everything from [[economic cycles]] to [[ecosystem collapse]].
 
