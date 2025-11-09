@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":["Flexibility"],"description":"Explore the concept of flexibility as a fundamental capacity for adaptation across physical, mental, and systemic domains. Learn how flexibility enables resilience, flow states, and coherent transformation in complex systems while maintaining essential integrity through change.","created":"2025-06-08","modified":"2025-11-09T14:01:59.587-05:00","tags":["concept","systems","dynamics"],"cssclasses":""}
+{"publish":true,"aliases":"","title":["Flexibility"],"description":"Explore the concept of flexibility as a fundamental capacity for adaptation across physical, mental, and systemic domains. Learn how flexibility enables resilience, flow states, and coherent transformation in complex systems while maintaining essential integrity through change.","created":"2025-11-09","modified":"2025-11-09T14:30:56.844-05:00","tags":["concept","systems","dynamics"],"cssclasses":""}
 ---
 
 **Flexibility** represents the capacity to adapt form without losing essential integrity - a fundamental property that manifests across physical, mental, and systemic domains. 
