@@ -1,22 +1,20 @@
 ---
-{"publish":true,"title":"Creativity","created":"2025-11-06","modified":"2025-11-06T17:01:43.332-05:00","tags":["concept","philosophy","creativity"],"cssclasses":""}
+{"publish":true,"title":"Creativity","description":"This exploration of creativity positions it as a receptive force rather than a generative one - a bridge between potential and form that flows through us rather than from us. The distinction between creator as vessel and creativity as transcendent force challenges conventional notions of artistic ownership and originality. Drawing from Rilke's wisdom about going into oneself to find the source, this piece suggests creativity emerges through awareness, fearlessness, and trust in emotions over analysis. How might understanding creativity as channeling rather than generating change our relationship with creative blocks? What happens when we shift from trying to be creative to allowing creativity to move through us?","created":"2025-11-06","modified":"2025-11-11T16:07:10.269-05:00","tags":["#concept","#philosophy","#creativity"],"cssclasses":""}
 ---
 
-The capacity to channel [[20-Philosophy/idea]]s from the realm of potential into [[20-Philosophy/form]] through an act of [[awareness]] and receptivity.
+The capacity to channel [[20-Philosophy/idea]]s from the realm of potential into [[20-Philosophy/form]] through an act of [[30-neurophysiology/Awareness]] and receptivity.
 
 > Therefore, my dear Sir, I know no advice for you save this: to go into yourself and test the deeps in which your life takes rise; at its source you will find the answer to the question whether you must create. Accept it, just as it sounds, without inquiring into it.
 > - Rainer Maria Rilke
-## The Nature of Creativity
 
 Creativity is not the generation of something from nothing, but rather the recognition and manifestation of what seeks to emerge. It operates as a bridge between the [[20-Philosophy/Archetypes/Archetype]]s and the world of [[20-Philosophy/action]], transforming the non-specific into the specific.
 
 Creativity is
 - **Non-linear**: Resists sequential thinking and predetermined outcomes
 - **Receptive**: Requires openness to what comes from outside of ourselves
-- **Present-focused**: Emerges through the [[awareness]] of the immediate moment
+- **Present-focused**: Emerges through the [[30-neurophysiology/Awareness]] of the immediate moment
 - **Fearless**: Thrives in the absence of judgement
 
-## The role of [[000 - Core Ideas/Creator]]
 
 While a [[000 - Core Ideas/Creator]] is the agent through which creativity flows, the creative force itself transcends individual ownership. The creator serves as vessel rather than source - channeling rather than generating.
 
