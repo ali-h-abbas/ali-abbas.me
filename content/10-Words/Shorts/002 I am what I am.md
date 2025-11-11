@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"I am What I am","created":"2025-11-06","modified":"2025-11-11T16:08:26.282-05:00","tags":["#shorts","#videos","#speaking","#creativity","#series/i-am","#heros-journey","#narrative"],"cssclasses":""}
+{"publish":true,"title":"I am What I am","created":"2025-11-11","modified":"2025-11-11T16:17:21.082-05:00","tags":["shorts","videos","speaking","creativity","series/i-am","heros-journey","narrative"],"cssclasses":""}
 ---
 
 
@@ -10,6 +10,8 @@ I also touch on [[30-neurophysiology/narrative identity]] here, which is an area
 Additionally, a nod to Bell Hooks' *The Will to Change* and what is suggested by the stories told by those in power and how they impact us in how we view the world.
 
 Naturally all of these topics are quite meta, as I actively explore the realm of creativity and how I seek to paint my story on the canvas of my life.
+
+[[001 Perfectionism & Creativity \|Watch the first video here.]]
 
 ---
 
