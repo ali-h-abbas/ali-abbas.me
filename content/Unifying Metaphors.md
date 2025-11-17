@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Unifying Metaphors","created":"2025-10-08","modified":"2025-10-08T15:20:17.475-04:00","tags":["innovation","creativity","language"],"cssclasses":""}
+{"publish":true,"title":"Unifying Metaphors","created":"2025-10-08","modified":"2025-11-17T16:11:12.715-05:00","tags":["innovation","creativity","language"],"cssclasses":""}
 ---
 
 >How do we understand the world, if there are different versions of it to reconcile? Is it important which models and metaphors we bring to bear on our reality? And, if it is, why has one particular model come to dominate us so badly that we hardly notice its pervasiveness? What do these models tell us about the words that relate us to the world at large – ‘know’, ‘believe’, ‘trust’, ‘want’, ‘grasp’, ‘see’ – that both describe and, if we are not careful, prescribe the relationship we have with it? ... the importance of metaphor is that it underlies all forms of understanding whatsoever, science and philosophy no less than poetry and art.
 >
 >**Iain McGilchrist**, British psychologist, neuroscientist, and philosopher. *The Master and his Emissary*
 
-![[Philosophy/attachments/Saturn-Neptune - Edited (1).png|Source: @seekoneness on Instagram]]
+![[20-Philosophy/attachments/Saturn-Neptune - Edited (1).png|Source: @seekoneness on Instagram]]
 # Metaphorical Schisms
 The question posed in the quotation above, strikes at the heart of human experience in the modern era. There's a constant negotiation of boundaries between the rigorous logic of "science" and the boundless mystery of "spirituality." Among the circles I run in there's often a quiet acknowledgement of the spiritual world, albeit wrapped in the shameful colloquialism of "woo-woo."
 
@@ -36,6 +36,6 @@ Many of us find ourselves in a creative choke hold. The fear of being dismissed,
 
 If, as McGilchrist suggests, the dominant metaphor **prescribes** our relationship with the world, then our work is to consciously choose a new one. We must stop letting the fear of being seen as _unscientific_ prevent us from articulating powerful truths which enable us to move through the world with less friction.
 
-The integration of the **Master** (holistic, potential) and the **Emissary** (specific, defined) isn't just about intellectual reconciliation; it's about [[Moon Series 02 ; Full Moon in Aries\|courageous expression]]. It is the willingness to see the magic in the constant (*ℎ*) and the structure in the myth (♄), and to speak that unified language without shame.
+The integration of the **Master** (holistic, potential) and the **Emissary** (specific, defined) isn't just about intellectual reconciliation; it's about [[10-Words/Moon Series 02 ; Full Moon in Aries\|courageous expression]]. It is the willingness to see the magic in the constant (*ℎ*) and the structure in the myth (♄), and to speak that unified language without shame.
 
-This is the path to truly integrated thought, where innovation sparks, creativity flows, and the deepest understanding of reality is forged. **The choice is ours: remain constrained by the schism, or embrace the [[Philosophy/non-dualism\|wholeness]] that allows us to move through the world with ease and grace.**
+This is the path to truly integrated thought, where innovation sparks, creativity flows, and the deepest understanding of reality is forged. **The choice is ours: remain constrained by the schism, or embrace the [[20-Philosophy/Eastern/non-dualism\|wholeness]] that allows us to move through the world with ease and grace.**
