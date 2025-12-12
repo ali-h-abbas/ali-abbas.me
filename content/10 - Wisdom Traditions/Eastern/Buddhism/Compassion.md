@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Compassion","created":"2025-11-17","modified":"2025-12-10T17:41:16.460-05:00","tags":["buddhism","concept"],"cssclasses":""}
+{"publish":true,"aliases":"","title":"Compassion","created":"2025-11-17","modified":"2025-12-12T15:08:57.381-05:00","tags":["buddhism","concept"],"cssclasses":""}
 ---
 
 

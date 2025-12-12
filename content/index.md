@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome","created":"2025-10-26","modified":"2025-10-28T21:28:58.473-04:00","cssclasses":""}
+{"publish":true,"aliases":"","title":"Welcome","description":"Explore the intersection of technology, consciousness, and transformation with Ali Abbas - artist, coach, business leader, and solutions architect. Discover insights from ancient wisdom systems integrated with cutting-edge research in neuroscience, psychology, and human experience.","created":"2025-10-26","modified":"2025-12-05T21:28:09.700-05:00","cssclasses":""}
 ---
 
 I'm [[about\|Ali Abbas]] - an artist, coach, business leader, and solutions architect at the intersection of technology, consciousness, and transformation.
@@ -16,7 +16,7 @@ I work with individuals and organizations navigating the complexities of change,
 
 ## Recent Work
 
-[[10-Words/CCSBE 2025 - The Hero's Journey - Understanding Entrepreneurial Resilience through Narrative Identity, Presence, and Well-Being]]
+[[50 - Transmissions/10-Words/CCSBE 2025 - The Hero's Journey - Understanding Entrepreneurial Resilience through Narrative Identity, Presence, and Well-Being]]
 
 ## Getting Started
 
