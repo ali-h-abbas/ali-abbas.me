@@ -1,0 +1,10 @@
+---
+{"publish":true,"aliases":"Wahdat al-wujud ","created":"2025-10-17","modified":"2025-12-10T17:53:13.012-05:00","tags":["concept"],"cssclasses":""}
+---
+
+
+Monism represents the philosophical position that reality is fundamentally one - a single, unified substance or principle underlies all apparent diversity. This ancient insight, found across cultures from Vedantic [[non-duality]] to Spinoza's substance monism to Islamic [[wahdat al-wujud]] (unity of being), challenges our everyday perception of separation and multiplicity.
+
+At its core, monism dissolves the boundaries between subject and object, self and cosmos, matter and [[20 - The Human System/30-neurophysiology/Consciousness]]. Where dualistic thinking creates categories and divisions, monistic philosophy recognizes these as conceptual overlays on an indivisible whole. The wave appears distinct from the ocean, yet remains inseparable from its source. This perspective reframes fundamental questions about [[identity]], [[causation]], and the nature of [[existence]] itself - suggesting that what we experience as separate entities are actually modifications or expressions of a singular reality.
+
+The implications cascade through multiple domains: in [[metaphysics]], it collapses the creator-creation distinction; in [[epistemology]], it suggests knower and known are ultimately one; in [[ethics]], it grounds compassion in literal rather than metaphorical unity. Modern [[physics]] echoes these insights through quantum entanglement and field theories, while [[neuroscience]] questions the boundaries of self through studies of [[20 - The Human System/30-neurophysiology/Consciousness]]. Whether approached through [[mysticism]], [[philosophy]], or [[science]], monism points toward a reality more interconnected than our conceptual frameworks typically allow.

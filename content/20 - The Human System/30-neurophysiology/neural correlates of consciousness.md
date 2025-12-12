@@ -1,0 +1,5 @@
+---
+{"publish":true,"title":"Neural Correlates of Consciousness","description":"Neural correlates of consciousness (NCCs) represent the minimum mechanisms of the brain and nervous system jointly sufficient for any specific conscious experience. These biological signatures - patterns of brain activity, nervous system responses, and network dynamics - are the physical markers from which we observe the emergence of [[consciousness]], though the precise nature of this emergence remains one of neuroscience's deepest mysteries.","created":"2025-11-09","modified":"2025-12-10T17:43:14.009-05:00","tags":["consciousness","neurophysiology","concept"],"cssclasses":""}
+---
+
+Neural correlates of consciousness (NCCs) represent the minimum mechanisms of the brain and nervous system jointly sufficient for any specific conscious experience. These biological signatures - patterns of brain activity, nervous system responses, and network dynamics - are the physical markers from which we observe the emergence of [[20 - The Human System/30-neurophysiology/Consciousness]], though the precise nature of this emergence remains one of neuroscience's deepest mysteries.
