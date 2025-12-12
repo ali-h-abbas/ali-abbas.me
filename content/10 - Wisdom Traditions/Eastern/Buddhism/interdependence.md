@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"","title":"Interdependence","created":"2025-11-09","modified":"2025-12-12T15:05:59.348-05:00","tags":["concept","buddhism"],"cssclasses":""}
+{"publish":true,"aliases":"","title":"Interdependence","created":"2025-11-09","modified":"2025-12-12T15:08:47.460-05:00","tags":["concept","buddhism"],"cssclasses":""}
 ---
 
 Interdependence represents the fundamental Buddhist teaching that all phenomena arise through mutual causation and exist only in relationship to everything else. Nothing possesses independent, inherent existence - each element of reality emerges from and dissolves back into an infinite web of connections and conditions. This principle, known as *pratītyasamutpāda* in Sanskrit (literally "dependent origination"), reveals that what we perceive as separate entities are actually dynamic patterns within an undivided whole.
