@@ -28,6 +28,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         <meta charset="utf-8">
         <meta http-equiv="refresh" content="0; url=${redirUrl}">
         </head>
+        <body></body>
         </html>
         `,
       slug: aliasTargetSlug,
