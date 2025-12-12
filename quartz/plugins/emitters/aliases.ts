@@ -9,11 +9,17 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
   const ogSlug = simplifySlug(file.data.slug!)
 
   for (const aliasTarget of file.data.aliases ?? []) {
+    // Skip empty or invalid aliases
+    if (!aliasTarget || typeof aliasTarget !== 'string') continue
+
     const aliasTargetSlug = (
       isRelativeURL(aliasTarget)
         ? path.normalize(path.join(ogSlug, "..", aliasTarget))
         : aliasTarget
     ) as FullSlug
+
+    // Skip generating redirects for the original slug to avoid overwriting content
+    if (simplifySlug(aliasTargetSlug) === ogSlug) continue
 
     const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
     yield write({
