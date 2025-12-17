@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Finally, A System Audit for the Self: Why the 5 Personality Patterns Map is the Only Model You Need","created":"2025-10-17","modified":"2025-12-10T17:51:15.165-05:00","tags":["SystemAudit","ShadowProcesses","InnerArchitecture","RealChange","writing","frameworks-tools"],"cssclasses":""}
+{"publish":true,"title":"Finally, A System Audit for the Self: Why the 5 Personality Patterns Map is the Only Model You Need","created":"2025-10-17","modified":"2025-11-04T21:25:54.704-05:00","tags":["SystemAudit","ShadowProcesses","InnerArchitecture","RealChange","writing","frameworks-tools"],"cssclasses":""}
 ---
 
 So you've done the personality tests - maybe the Enneagram, Myers-Briggs, or some other framework that promises to reveal who you really are. And if you've sat with those results with any real awareness, you've probably noticed something: they're describing symptoms, not the underlying architecture.

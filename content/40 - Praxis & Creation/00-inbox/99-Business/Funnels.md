@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-12","modified":"2025-12-10T17:50:13.015-05:00","tags":["concept"],"cssclasses":""}
+{"publish":true,"created":"2025-10-12","modified":"2025-12-17T17:06:28.960-05:00","tags":["concept"],"cssclasses":""}
 ---
 
 # "We have the ONE strategy that will help you sleep at night"

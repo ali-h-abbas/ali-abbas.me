@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-25","modified":"2025-12-10T17:41:15.014-05:00","tags":["buddhism","philosophy","lifestyle"],"cssclasses":""}
+{"publish":true,"created":"2025-10-25","modified":"2025-12-05T21:28:08.305-05:00","tags":["buddhism","philosophy","lifestyle"],"cssclasses":""}
 ---
 
 The Three Acts of Goodness are a fundamental ethical teaching often associated with Humanistic Buddhism and various Chinese Mahāyāna traditions. They offer a simple, practical framework for daily ethical conduct by focusing on the actions of the body, speech, and mind.

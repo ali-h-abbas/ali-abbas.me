@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-23","modified":"2025-12-10T17:50:13.017-05:00","tags":["blog/draft"],"cssclasses":""}
+{"publish":true,"created":"2025-09-23","modified":"2025-12-05T21:28:09.686-05:00","tags":["blog/draft"],"cssclasses":""}
 ---
 
 # Definition

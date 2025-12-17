@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-16","modified":"2025-12-10T17:51:14.040-05:00","cssclasses":""}
+{"publish":true,"created":"2025-10-16","modified":"2025-12-05T21:28:07.885-05:00","cssclasses":""}
 ---
 
 *This will be the subject of the workshop I run in two weeks*

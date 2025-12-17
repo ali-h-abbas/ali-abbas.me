@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"emptiness","created":"2025-10-25","modified":"2025-12-10T17:41:19.056-05:00","tags":["philosophy","buddhism","concept"],"cssclasses":""}
+{"publish":true,"aliases":"emptiness","title":"Sunyata (Emptiness)","created":"2025-10-25","modified":"2025-12-17T17:14:07.140-05:00","tags":["philosophy","buddhism","concept"],"cssclasses":""}
 ---
 
 Emptiness (śūnyatā in Sanskrit) represents the fundamental Buddhist insight that all phenomena lack inherent, independent existence. Rather than signifying mere absence or void, emptiness points to the radical interdependence of all things - each arising through causes and conditions, none possessing a fixed, unchanging essence. This recognition dissolves the illusion of separateness that underlies [[self-centeredness]] and reveals our profound [[interconnectedness]] with all beings and phenomena.

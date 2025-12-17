@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"CCSBE25-01: Narrative Reframing","created":"2025-11-06","modified":"2025-12-12T11:25:04.814-05:00","tags":["#shorts","#videos","#speaking","#creativity","#series/heros-journey"],"cssclasses":""}
+{"publish":true,"title":"CCSBE25-01: Narrative Reframing","created":"2025-11-06","modified":"2025-12-13T09:47:15.131-05:00","tags":["shorts","videos","speaking","creativity","series/heros-journey"],"cssclasses":""}
 ---
 
 This is the first clip I extracted from my talk at the Canadian Conference of Small Business & Entrepreneurship (CCSBE) 2025.
@@ -10,7 +10,7 @@ Many talks throughout the day taught me a lot about how the challenges and oppor
 
 I've posted the full video [[here]].
 
-This clip is an introduction to [[20 - The Human System/30-neurophysiology/narrative identity]] and [[reframing]], both core to my journey of re-writing my story and something I share enthusiastically with my partners and clients.
+This clip is an introduction to [[20 - The Human System/24 - Identity & Agency/narrative identity]] and [[reframing]], both core to my journey of re-writing my story and something I share enthusiastically with my partners and clients.
 
 ---
 

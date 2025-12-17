@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-12-10T17:50:13.019-05:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
+{"publish":true,"title":"The Inner Creator's System Audit: 3 Steps to Identifying Destructive Patterns","created":"2025-10-17","modified":"2025-12-17T17:07:52.726-05:00","tags":["SystemAudit","ShadowProcesses","Resources","RealChange","InnerArchitecture"],"cssclasses":""}
 ---
 
 If you're tired of playing a character in someone else's script—or if you feel blocked from stepping into your full creative power—you have to audit the **sub-optimal patterns** running in your inner world.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Perfectionism & Creativity","created":"2025-11-06","modified":"2025-12-10T17:51:14.046-05:00","tags":["shorts","videos","speaking","creativity","series/i-am"],"cssclasses":""}
+{"publish":true,"title":"Perfectionism & Creativity","created":"2025-11-06","modified":"2025-11-11T12:32:10.780-05:00","tags":["shorts","videos","speaking","creativity","series/i-am"],"cssclasses":""}
 ---
 
 

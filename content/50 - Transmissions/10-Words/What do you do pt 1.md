@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"So what do you do? Part 1","description":"A personal journey through career transformation - from corporate anxiety to entrepreneurial discovery, and the evolving answer to 'What do you do?","created":"2025-10-20","modified":"2025-12-10T17:51:15.169-05:00","tags":["personal-development","entrepreneurship","writing","essays-exploration"],"cssclasses":""}
+{"publish":true,"title":"So what do you do? Part 1","description":"A personal journey through career transformation - from corporate anxiety to entrepreneurial discovery, and the evolving answer to 'What do you do?","created":"2025-10-20","modified":"2025-11-04T21:26:07.446-05:00","tags":["personal-development","entrepreneurship","writing","essays-exploration"],"cssclasses":""}
 ---
 
 I find the process of networking and engaging with others to be endlessly valuable in the process of self-discovery. For much of my career a networking event meant dressing in my one ill-fitting suit, cleaned up to an ideal of what it meant to look professional, sweating my ass off from a cocktail of cortisol, caffeine and generalized anxiety.
@@ -31,7 +31,7 @@ Less commonly would be someone who had been doing the Consultant dance much long
 
 As a new, self-labelled entrepreneur this was a hard question to answer. I could speak in terms of what I *had* done in my career, but there was no active engagement in front of me.
 
-So the internal [[20 - The Human System/Archetypes/Stage Manager\|stage manager]] got to work, had a word with the internal playwright, and decided it was time to shift the story.
+So the internal [[20 - The Human System/23 - Inner Architecture/Archetypes/Stage Manager\|stage manager]] got to work, had a word with the internal playwright, and decided it was time to shift the story.
 ## I'm sick of doing. I'm just being.
 
 It was at one of these networking-y shindigs where through this dance of seeking authentic connection matched to a mode of being that might pay my bills I started to talk about my consulting approach in very esoteric terms.

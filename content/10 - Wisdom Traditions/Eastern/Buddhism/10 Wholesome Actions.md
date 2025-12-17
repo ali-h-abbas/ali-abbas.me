@@ -1,24 +1,27 @@
 ---
-{"publish":true,"created":"2025-10-25","modified":"2025-12-10T17:41:15.018-05:00","tags":["philosophy","buddhism","lifestyle"],"cssclasses":""}
+{"publish":true,"title":"10 Wholesome Actions","created":"2025-10-25","modified":"2025-12-17T17:12:35.077-05:00","tags":["philosophy","buddhism","lifestyle"],"cssclasses":""}
 ---
 
-The 10 Wholesome Actions, or Daśakuśalakarma, are fundamental ethical guidelines in Buddhism that lead to positive karmic results and a favorable rebirth. They are generally categorized into actions of body, speech, and mind.
+The Ten Wholesome Actions (*daśakuśalakarma*) constitute fundamental ethical guidelines in [[Buddhism]] that orient practitioners toward positive [[10 - Wisdom Traditions/Eastern/Vedic/karma\|karmic]] results and favourable conditions for continued [[spiritual practice]]. Rather than arbitrary prohibitions, these precepts describe the natural conduct of a mind progressively freed from [[ignorance]], [[craving]], and [[aversion]] - the three poisons at the root of [[10 - Wisdom Traditions/Eastern/Buddhism/dukkha\|suffering]].
 
-Actions of Body (3)
+The actions are traditionally categorized according to the three doors through which karma is created:
 
-1. Refraining from Killing: Not taking the life of any sentient being.
-2. Refraining from Stealing: Not taking what has not been freely given.
-3. Refraining from Sexual Misconduct: Abstaining from sexual acts that cause harm to oneself or others (often interpreted as proper conduct within committed relationships).
+**Actions of Body (3)**
+1. *Refraining from killing* - not taking the life of any sentient being
+2. *Refraining from stealing* - not taking what has not been freely given
+3. *Refraining from sexual misconduct* - abstaining from sexual acts that cause harm
 
-Actions of Speech (4)
+**Actions of Speech (4)**
+4. *Refraining from lying* - speaking truthfully and honestly
+5. *Refraining from divisive speech* - not creating discord between others
+6. *Refraining from harsh speech* - speaking gently, avoiding insults
+7. *Refraining from idle gossip* - speaking meaningfully and purposefully
 
-1. Refraining from Lying: Speaking truthfully and honestly.
-2. Refraining from Divisive Speech: Not speaking in a way that creates discord or separates people.
-3. Refraining from Harsh Speech: Speaking gently, kindly, and politely, avoiding insults or abuse.
-4. Refraining from Idle Gossip (or Frivolous Talk): Speaking meaningfully and purposefully, avoiding excessive chatter that lacks substance or is unbeneficial.
+**Actions of Mind (3)**
+8. *Refraining from covetousness* - releasing intense desire for others' possessions
+9. *Refraining from malice* - maintaining freedom from hatred and ill-will
+10. *Refraining from wrong views* - cultivating correct understanding of [[10 - Wisdom Traditions/Eastern/Vedic/karma]] and the [[10 - Wisdom Traditions/Eastern/Buddhism/Four Noble Truths]]
 
-Actions of Mind (3)
+The progression from body through speech to mind reflects Buddhism's recognition that outer conduct flows from inner disposition. The final three precepts address the [[20 - The Human System/22 - Cognition & Perception/Consciousness]] from which all action arises - aligning with the [[10 - Wisdom Traditions/contemplative traditions]]' shared insight that genuine [[transformation]] requires working at the level of [[mind]] itself. 
 
-1. Refraining from Covetousness (or Greed): Not intensely desiring the possessions or advantages of others.
-2. Refraining from Malice (or Ill Will): Maintaining a mind free from hatred, anger, or wishing harm upon others.
-3. Refraining from Wrong Views (or Delusion): Cultivating correct understanding, particularly the understanding of karma (action and result) and the Four Noble Truths.
+See also [[Five Precepts]], [[sīla]], [[Eightfold Path]], [[10 - Wisdom Traditions/Eastern/Vedic/karma]], [[right action]], [[Buddhist ethics]].

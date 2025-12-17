@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-08","modified":"2025-12-10T17:50:13.011-05:00","cssclasses":""}
+{"publish":true,"created":"2025-10-08","modified":"2025-12-17T17:06:23.714-05:00","cssclasses":""}
 ---
 
 As a new entrepreneur, figuring out how I best wanted to cultivate the space I call home on the internet was a rabbit hole I was not expecting.

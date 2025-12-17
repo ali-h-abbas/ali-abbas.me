@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"Building Foundations","created":"2025-11-15","modified":"2025-12-10T17:51:14.042-05:00","tags":["writing","transformation"],"cssclasses":""}
+{"publish":true,"title":"Building Foundations","created":"2025-11-15","modified":"2025-12-10T17:40:15.569-05:00","tags":["writing","transformation"],"cssclasses":""}
 ---
 
-The rejection of violent systems via firm individual boundaries is a righteous echo of rebellion, celebrating a long-denied personal [[20 - The Human System/Agency]].
+The rejection of violent systems via firm individual boundaries is a righteous echo of rebellion, celebrating a long-denied personal [[20 - The Human System/24 - Identity & Agency/Agency]].
 
 Yet I find myself holding space for the inquiry: When does a necessary boundary for self-healing become an isolating individualism? Are we answering the call to burn down what's unjust, or to diligently build a bridge to help others cross?
 

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"act","title":"Action","created":"2025-11-17","modified":"2025-12-10T17:58:13.006-05:00","tags":["concept","philosophy"],"cssclasses":""}
+{"publish":true,"aliases":"act","title":"Action","created":"2025-11-17","modified":"2025-12-10T17:57:13.141-05:00","tags":["concept","philosophy"],"cssclasses":""}
 ---
 
-Action represents the deliberate transition from [[potentiality]] to [[actuality]]. At its core, the concept describes the manifestation of internal [[intention]] or [[000 - Core Ideas/Will]] into the external world, thereby initiating kinetic [[30 -  Systems and Dynamics/change]]. Unlike simple motion or autonomic [[behaviour]], true philosophical action implies a degree of internal deliberation or [[20 - The Human System/Agency]], establishing the individual as a verifiable source of movement and outcome. It is the crucial bridge between thought and reality.
+Action represents the deliberate transition from [[potentiality]] to [[actuality]]. At its core, the concept describes the manifestation of internal [[intention]] or [[000 - Core Ideas/Will]] into the external world, thereby initiating kinetic [[30 -  Systems and Dynamics/change]]. Unlike simple motion or autonomic [[behaviour]], true philosophical action implies a degree of internal deliberation or [[20 - The Human System/24 - Identity & Agency/Agency]], establishing the individual as a verifiable source of movement and outcome. It is the crucial bridge between thought and reality.
 
 The term originates from the Latin *agere*, meaning ‘to do’ or ‘to drive’. In [[ontology]], action serves as a fundamental category, differentiating purposeful creation from random occurrence. When an individual engages in action, they assert [[being]] and exercise freedom, focusing attention not just on the observable physical movement, but on the inherent directive or [[purpose]] - the *why* - that initiates the doing.
 

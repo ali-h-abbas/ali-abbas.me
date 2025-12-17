@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"I am What I am","created":"2025-11-11","modified":"2025-12-10T17:51:14.060-05:00","tags":["shorts","videos","speaking","creativity","series/i-am","heros-journey","narrative"],"cssclasses":""}
+{"publish":true,"title":"I am What I am","created":"2025-11-11","modified":"2025-11-17T11:32:41.064-05:00","tags":["shorts","videos","speaking","creativity","series/i-am","heros-journey","narrative"],"cssclasses":""}
 ---
 
 
-In the second video in the series exploring the nature of [[40 - Praxis & Creation/creativity]] and what it is that we are. Here I make a nod to [[10 - Wisdom Traditions/Western Esotericism/The Divine Name]], and how when we are stuck in our heads (such as in the throws of perfectionism), we cut ourselves off from the creative energy which enables us to live happier and more creative lives.
+In the second video in the series exploring the nature of [[40 - Praxis & Creation/creativity]] and what it is that we are. Here I make a nod to [[10 - Wisdom Traditions/Western/Kabbalah and Judeo-Christian Mysteries/The Divine Name]], and how when we are stuck in our heads (such as in the throws of perfectionism), we cut ourselves off from the creative energy which enables us to live happier and more creative lives.
 
-I also touch on [[20 - The Human System/30-neurophysiology/narrative identity]] here, which is an area I look to expand upon using the lens of [[20 - The Human System/Archetypes/The Heros Journey]] in later videos.
+I also touch on [[20 - The Human System/24 - Identity & Agency/narrative identity]] here, which is an area I look to expand upon using the lens of [[20 - The Human System/23 - Inner Architecture/Archetypes/The Heros Journey]] in later videos.
 
 Additionally, a nod to Bell Hooks' *The Will to Change* and what is suggested by the stories told by those in power and how they impact us in how we view the world.
 
@@ -20,7 +20,7 @@ Naturally all of these topics are quite meta, as I *actively* explore the realm 
 ---
 
 ### Transcript:
-"I am what I am" is a [[10 - Wisdom Traditions/Western Esotericism/The Divine Name\|powerful name]]. In fact, in the story of Moses when he climbs the mountain and comes face to face with the burning bush, the burning bush introduces itself in that very way.
+"I am what I am" is a [[10 - Wisdom Traditions/Western/Kabbalah and Judeo-Christian Mysteries/The Divine Name\|powerful name]]. In fact, in the story of Moses when he climbs the mountain and comes face to face with the burning bush, the burning bush introduces itself in that very way.
 
 This fiery destructive force that we would see as something both destructive and nourishing spoke to Moses, not only saying "I am what I am," but using such poetic language that could also be inferred that **"I am what I will be"** and **"I am what I create"** and **"I create that which I will be."**
 

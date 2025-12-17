@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Why Creativity? Why Now?","created":"2025-11-06","modified":"2025-12-10T17:51:14.048-05:00","tags":["shorts","videos","speaking","creativity","series/i-am"],"cssclasses":""}
+{"publish":true,"title":"Why Creativity? Why Now?","created":"2025-11-06","modified":"2025-12-10T13:06:40.664-05:00","tags":["shorts","videos","speaking","creativity","series/i-am"],"cssclasses":""}
 ---
 
 
-Here I drop the word [[20 - The Human System/Archetypes/alchemy]], which has been somewhat of a primary mechanism of getting me to the place of understanding where I currently stand.
+Here I drop the word [[10 - Wisdom Traditions/Alchemy/alchemy]], which has been somewhat of a primary mechanism of getting me to the place of understanding where I currently stand.
 
 I think my intent here was to educate the audience on why I am talking about these themes - which is the vision for a future which requires collaboration.
 
