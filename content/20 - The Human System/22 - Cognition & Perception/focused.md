@@ -1,0 +1,15 @@
+---
+{"publish":true,"aliases":"Focus","title":"Focus","created":"2025-11-03","modified":"2025-12-18T10:01:55.961-05:00","tags":["#concept","#cognition"],"cssclasses":""}
+---
+
+# Focus
+
+The directed concentration of [[20 - The Human System/22 - Cognition & Perception/attention]] upon a specific object, task, or field of awareness - the cognitive capacity to select what enters [[20 - The Human System/22 - Cognition & Perception/Consciousness]] while excluding competing stimuli. Focus operates as the executive function that gathers scattered mental energies into coherent application, transforming diffuse awareness into pointed engagement.
+
+From a cognitive perspective, focus represents the mind's capacity for selective attention - what [[William James]] called "the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought." This selectivity is both gift and limitation: focus enables depth but necessarily creates peripheral blindness. What we attend to becomes our experienced reality; what falls outside the beam of attention effectively ceases to exist for us.
+
+The [[10 - Wisdom Traditions/contemplative traditions]] have long recognized focus as foundational to [[inner work]]. The Sanskrit *[[10-Notes/13-Understanding/13.04-yoga/13.07.06-internal-limbs/Dharana]]* (concentration) names the sixth limb of [[Patanjali]]'s eight-fold [[yoga]] - the gathering of mind that precedes [[10-Notes/13-Understanding/13.04-yoga/13.07.06-internal-limbs/Dhyana]] (meditation) and [[10-Notes/13-Understanding/13.04-yoga/13.07.06-internal-limbs/Samadhi]] (absorption). Buddhist *[[samatha]]* practice cultivates one-pointed concentration as the stable platform from which [[vipassana]] (insight) becomes possible. Without the capacity to hold attention steady, the deeper operations of [[contemplation]] cannot proceed; the mind simply wanders, lost in [[distraction]] and associative drift.
+
+Yet focus differs from the open, receptive [[20 - The Human System/22 - Cognition & Perception/Awareness]] emphasized in many traditions. Where focus narrows, awareness expands; where focus selects, awareness includes. The relationship between these modes - concentrated attention and panoramic presence - constitutes a central polarity in [[meditation]] practice. Some paths begin with focus and relax into awareness; others cultivate spacious awareness first. The mature practitioner moves fluidly between both, recognising each as incomplete without the other. 
+
+See also [[20 - The Human System/22 - Cognition & Perception/attention]], [[concentration]], [[10-Notes/13-Understanding/13.04-yoga/13.07.06-internal-limbs/Dharana]], [[samatha]], [[20 - The Human System/22 - Cognition & Perception/Awareness]], [[meditation]], [[20 - The Human System/22 - Cognition & Perception/Mindfulness]], [[one-pointedness]].
