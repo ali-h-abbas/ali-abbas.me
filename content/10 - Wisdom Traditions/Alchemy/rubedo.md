@@ -1,0 +1,11 @@
+---
+{"publish":true,"title":"Rubedo","created":"2025-12-14","modified":"2025-12-18T19:05:37.189-05:00","tags":["alchemy","thegreatwork"],"cssclasses":""}
+---
+
+The final stage of the alchemical _magnum opus_, rubedo ("reddening") represents the culmination of the Great Work - the creation of the [[10 - Wisdom Traditions/Alchemy/Philosopher's Stone]] or, in psychological terms, the achievement of [[20 - The Human System/23 - Inner Architecture/Jung/individuation]]. Following the darkness of [[10 - Wisdom Traditions/Alchemy/nigredo]] and the purification of [[10 - Wisdom Traditions/Alchemy/albedo]], rubedo signals the reunion of opposites into a unified, vital whole.
+
+In [[20 - The Human System/23 - Inner Architecture/Jung/Carl Jung]]'s interpretation of [[10 - Wisdom Traditions/Alchemy/alchemy]] as a symbolic map of [[10 - Wisdom Traditions/Western/Neoplatonism/Psyche\|psychic]] transformation, rubedo corresponds to the integration of [[20 - The Human System/22 - Cognition & Perception/Consciousness]] with the [[20 - The Human System/23 - Inner Architecture/Jung/unconscious]] - not a victory of one over the other, but a marriage. The redness evokes blood, passion, and embodied life; where albedo risks becoming too ethereal or abstract, rubedo demands that insight be lived. The [[20 - The Human System/23 - Inner Architecture/Archetypes/Self]] emerges not as an escape from earthly existence but as full participation in it.
+
+The imagery of rubedo often involves the [[10 - Wisdom Traditions/Alchemy/coniunctio]] - the sacred marriage of [[10 - Wisdom Traditions/Alchemy/Sol]] and [[10 - Wisdom Traditions/Alchemy/Luna]], masculine and feminine principles - producing the _lapis philosophorum_. This union transcends the dualities that characterize ordinary consciousness: spirit and matter, thought and feeling, personal and transpersonal. The colour red also connects to the [[heart]] in many traditions, suggesting that the endpoint of transformation is not mere knowledge but something closer to [[wisdom]] embodied through [[10-Notes/12-Periodic/Emotions/Love]]. 
+
+See also [[gold symbolism]], [[wholeness]].
