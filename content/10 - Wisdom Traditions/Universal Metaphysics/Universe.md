@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Cosmos","created":"2025-08-29","modified":"2025-12-17T17:01:29.720-05:00","tags":["philosophy/ontology","concept"],"cssclasses":""}
+{"publish":true,"aliases":"Cosmos","created":"2025-08-29","modified":"2026-01-02T12:31:14.404-05:00","tags":["#concept","#ontology"],"cssclasses":""}
 ---
 
 The totality of existence - all matter, energy, space, and time conceived as an integrated whole. At its core, this concept points to the fundamental interconnectedness of all phenomena, where nothing exists in isolation but rather as part of an intricate web of relationships and contexts.

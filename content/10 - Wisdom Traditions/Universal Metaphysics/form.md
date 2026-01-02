@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Platonic Form Forms","created":"2025-06-08","modified":"2025-12-17T17:29:22.966-05:00","tags":["concept","philosophy"],"cssclasses":""}
+{"publish":true,"aliases":"Platonic Form Forms","created":"2025-06-08","modified":"2025-12-18T19:15:31.458-05:00","tags":["concept","philosophy"],"cssclasses":""}
 ---
 
 he eternal, unchanging archetypes that constitute ultimate reality in [[Plato]]'s metaphysics - the perfect patterns of which sensible particulars are imperfect copies or participations. A beautiful object is beautiful because it participates in the Form of [[10 - Wisdom Traditions/Western/Neoplatonism/Beauty]]; a just action reflects the Form of Justice; every triangle gestures toward Triangularity itself. The Forms (*eide*, singular *eidos*) exist not as mental abstractions but as ontologically prior realities - more real than the flickering shadows of material existence.
@@ -10,4 +10,4 @@ The Forms occupy the [[intelligible realm]] (*kosmos noetos*), accessible not th
 
 The theory raises enduring questions: How do particulars participate in Forms? Do Forms exist for everything (mud, hair, negations)? How does the soul access a realm beyond sense? Yet the intuition persists - that behind appearance lies structure, that the mind discovers rather than invents, that [[10 - Wisdom Traditions/Western/Neoplatonism/anamnesis]] names something real about how insight arrives. 
 
-See also [[10 - Wisdom Traditions/Universal Metaphysics/idea]], [[Plato]], [[10 - Wisdom Traditions/Western/Neoplatonism/the Good]], [[intelligible realm]], [[participation]], [[methexis]], [[20 - The Human System/23 - Inner Architecture/Jung/Archetype]].
+See also [[10 - Wisdom Traditions/Universal Metaphysics/idea]], [[Plato]], [[10 - Wisdom Traditions/Western/Neoplatonism/the Good]], [[intelligible realm]], [[participation]], [[methexis]], [[20 - The Human System/23 - Inner Architecture/Depth Psychology/Archetype]].
