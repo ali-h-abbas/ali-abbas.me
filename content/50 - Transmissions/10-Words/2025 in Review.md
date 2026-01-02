@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"2025 in Review","created":"2025-12-17","modified":"2026-01-02T12:36:24.012-05:00","tags":["year-review","writing"],"cssclasses":""}
+{"publish":true,"title":"2025 in Review","created":"2025-12-17","modified":"2026-01-02T12:45:55.905-05:00","tags":["year-review","writing"],"cssclasses":""}
 ---
 
 I began this reflection at the point just before the winter solstice in the comfort of home, and completed it in the days following the new year after spending time in silence in the jungles of Central America. I'm deeply grateful for the opportunity to be with myself and with Mother Earth, using that container to [[10 - Wisdom Traditions/Alchemy/alchemy\|alchemize]] the many experiences of this year.
@@ -82,7 +82,15 @@ I sat with this person as they moved through their pain, and watched as that spa
 
 This experience pointed me to the profound importance of the work I have decided to take on as a coach. Not as someone with all the answers, but as someone willing to have walked through the [[10 - Wisdom Traditions/Bridges & Symbols/fire]] themselves.
 
-The timing wasn't coincidental. Grief had shown me what truly mattered, and coaching became the vehicle through which I could honor that understanding by helping others navigate their own moments of transformation.
+It also gave me the courage to step into another arena entirely. Through a partnership that emerged from my coaching training, I launched a podcast called[ Myth Mongers](https://creators.spotify.com/pod/profile/mythmongers/) with my peer and now good friend Laurel (aka [griefandgrowthguide](https://www.instagram.com/griefandgrowthguide/))- a project dedicated to using the power of myth and storytelling to understand the journey of the self.
+
+This was terrifying in a way that surprised me. There was something different about committing to an ongoing public conversation about ideas that are deeply personal to me. Myth, story, the hero's journey, the meaning we make from ancient wisdom - these aren't just professional interests. They're the threads I've been weaving together to make sense of my own life since 2019.
+
+Recording each episode meant showing up consistently, not just when I felt ready or polished. It meant being willing to think out loud, to be wrong, to let people see the process of sense-making rather than just the finished product. It meant trusting that the ideas dear to my heart might also be meaningful to others.
+
+And they were. The response showed me that others were hungry for this kind of exploration - for conversations that bridge the ancient and the modern, the mythic and the practical, the personal and the collective. Myth Mongers became another expression of what grief had taught me: that showing up fully, even when afraid, creates space for others to do the same.
+
+The timing wasn't coincidental. Grief had shown me what truly mattered, and coaching - along with the podcast - became vehicles through which I could honor that understanding by helping others navigate their own moments of transformation.
 
 ## Building My Second Brain
 
