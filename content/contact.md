@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2025-10-27T17:12:08.454-04:00","cssclasses":""}
+{"publish":true,"title":"Get in Touch","description":"The many ways to contact Ali Abbas","created":"2025-10-26","modified":"2026-01-02T17:51:51.157-05:00","cssclasses":""}
 ---
 
 I'm always interested in connecting with people who are curious about the intersection of technology, consciousness, and transformation.
@@ -17,7 +17,7 @@ I'm always interested in connecting with people who are curious about the inters
 
 **BlueSky**: [@Abbasadvantage](https://bsky.app/profile/abbasadvantage.com)
 
-**Substack/Newsletter**: [Your Newsletter](https://yoursubstack.com)
+**Instagram**: [@alchemical.ali](https://www.instagram.com/alchemical.ali?igsh=MXRlYXNtazM4cndoaw%3D%3D&utm_source=qr)
 
 ## What I'm Open To
 
