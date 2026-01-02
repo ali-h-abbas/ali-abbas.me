@@ -1,0 +1,9 @@
+---
+{"publish":true,"title":"Synchronicity","created":"2025-12-14","modified":"2026-01-02T12:31:51.257-05:00","cssclasses":""}
+---
+
+Synchronicity names the phenomenon of meaningful coincidence - events connected not by causation but by significance. [[20 - The Human System/23 - Inner Architecture/Depth Psychology/Carl Jung]] coined the term in the 1950s to describe experiences where inner psychological states correspond with outer events in ways that feel deeply relevant yet defy conventional explanation. A person dreams of a rare beetle, then one taps against the window during their therapy session. A book falls open to precisely the passage needed. The right stranger appears at the necessary moment.
+
+Jung developed the concept partly through his engagement with the [[10 - Wisdom Traditions/Eastern/Taoism/I Ching]] and conversations with physicist [[Wolfgang Pauli]], seeking a principle that could account for experiences the Western causal framework dismisses as mere chance. He proposed synchronicity as an "acausal connecting principle" - a mode of relationship between events based on meaning rather than mechanism. This places the concept in tension with [[materialism]] while resonating with [[10 - Wisdom Traditions/Eastern/Taoism/Taoism\|Taoist]] notions of alignment with the [[Tao]] and indigenous understandings of an ensouled, responsive cosmos.
+
+The phenomenon raises uncomfortable questions about the nature of [[20 - The Human System/22 - Cognition & Perception/Consciousness]] and its relationship to the external world. Does synchronicity reveal an underlying interconnectedness, a universe that somehow "knows"? Or does the pattern-seeking mind simply impose significance on randomness? Perhaps the more generative question is functional: what happens when one begins attending to coincidence as if it matters? The answer often involves a subtle shift in perception - from passive observer to participant in something larger.

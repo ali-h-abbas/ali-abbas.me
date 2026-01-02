@@ -1,0 +1,12 @@
+---
+{"publish":true,"aliases":"non-self","title":"Anatta (non-self)","created":"2025-12-04","modified":"2026-01-01T01:07:10.230-05:00","tags":["#buddhism","#non-self","#concept"],"cssclasses":""}
+---
+
+
+Anatta, or non-self, represents the Buddhist doctrine that there is no permanent, unchanging essence or soul within beings. This fundamental teaching challenges the intuitive sense of a fixed "I" that persists through time, proposing instead that what we experience as self is a dynamic collection of ever-changing physical and mental processes. The term derives from the Pali language, combining "an" (not) with "atta" (self or soul), directly negating the Hindu concept of [[10 - Wisdom Traditions/Eastern/Vedic/Atman]] - the eternal, individual soul (though this is subject to debate).
+
+At its core, anatta describes the absence of any fixed reference point for [[20 - The Human System/24 - Identity & Agency/identity]]. Buddhist analysis traditionally breaks down the apparent self into five [[skandhas]] or aggregates: form, sensation, perception, mental formations, and consciousness. Each aggregate is itself impermanent and constantly shifting, like a river that maintains its name while its waters continuously flow and change. This teaching doesn't deny the conventional utility of selfhood for practical purposes, but rather points to the ultimate insubstantiality of what we habitually take to be solid and permanent.
+
+The recognition of anatta serves as a cornerstone for understanding [[10 - Wisdom Traditions/Eastern/Buddhism/dukkha]] (suffering) and the path to liberation. By seeing through the illusion of a separate, permanent self, an individual can release attachment to what was never truly possessed and dissolve the boundaries that create suffering. This insight connects directly to [[10 - Wisdom Traditions/Eastern/Buddhism/Sunyata]] (śūnyatā) in Mahayana Buddhism, [[10 - Wisdom Traditions/Eastern/Buddhism/dependent origination]], and modern investigations into [[20 - The Human System/22 - Cognition & Perception/Consciousness]] and the [[narrative self]] constructed by the brain. 
+
+Contemporary neuroscience increasingly validates this ancient observation, finding no neural correlate for a fixed self, only networks of processes giving rise to the [[30 -  Systems and Dynamics/emergence\|emergent]] experience of selfhood.

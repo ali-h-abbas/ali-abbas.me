@@ -1,0 +1,9 @@
+---
+{"publish":true,"created":"2025-12-16","modified":"2026-01-02T12:34:02.339-05:00","cssclasses":""}
+---
+
+Process philosophy represents a metaphysical orientation that treats *becoming* rather than *being* as the fundamental nature of reality. Where classical Western philosophy (following Parmenides and later Aristotle) privileged static substances and fixed essences, process thought insists that change, flux, and dynamic relation constitute the primary features of existence.
+
+The approach finds its modern systematization in Alfred North Whitehead's work, though its roots extend to Heraclitus's declaration that one cannot step into the same river twice, and resonate with Buddhist concepts of [[10 - Wisdom Traditions/Eastern/Buddhism/Anicca\|impermanence]] and [[10 - Wisdom Traditions/Eastern/Buddhism/dependent origination]]. Rather than viewing the world as composed of enduring *things* that sometimes change, process philosophy inverts the picture: reality consists of events, occasions, and processes from which apparently stable entities emerge as patterns of recurrence.
+
+This reorientation carries significant implications across domains - from [[philosophy of mind]] (where consciousness becomes an ongoing process rather than a state produced by a thing called "brain") to [[ecology]] (where organisms are understood as processes maintaining themselves through continuous exchange with environment) to [[30 -  Systems and Dynamics/emergence]] itself (where novelty arises from the creative advance of interconnected processes). The framework challenges the [[substance metaphysics]] underlying much scientific materialism while offering conceptual resources for understanding [[30 -  Systems and Dynamics/complexity]], [[relationality]], and the irreducibility of temporal experience.
