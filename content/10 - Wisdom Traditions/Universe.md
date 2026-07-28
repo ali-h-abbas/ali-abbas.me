@@ -1,0 +1,9 @@
+---
+{"publish":true,"aliases":"Cosmos","created":"2025-08-29","modified":"2025-12-10T17:53:23.008-05:00","tags":["philosophy/ontology","concept"],"cssclasses":""}
+---
+
+The universe represents the totality of existence - all matter, energy, space, and time conceived as an integrated whole. At its core, this concept points to the fundamental interconnectedness of all phenomena, where nothing exists in isolation but rather as part of an intricate web of relationships and contexts. The experience of "blueness" across sky, ocean, and butterfly demonstrates this principle: each manifestation is distinct yet participates in a larger pattern of meaning.
+
+The term derives from the Latin *universus*, meaning "turned into one," though the conceptual roots trace back to the Greek *[[10 - Wisdom Traditions/Western Esotericism/neoplatonism/Kosmos]]* (κόσμος), first employed philosophically by [[Pythagoras]] in the 6th century BCE. Where *cosmos* emphasized order and harmony, *universe* encompasses both the ordered and chaotic aspects of existence. This linguistic evolution reflects humanity's expanding understanding of reality's scope - from the visible heavens to quantum fields and dark matter.
+
+Modern physics reveals the universe as approximately 13.8 billion years old, yet this temporal framework exists within consciousness that perceives it. This creates a profound [[paradox]]: the universe contains the mind that contemplates it, while that same mind constructs its understanding of the universe. The concept thus bridges [[ontology]] and [[epistemology]], linking questions of what exists with how we know it exists. Related concepts include [[multiverse]] theory, [[holographic principle]], and ancient notions of [[10 - Wisdom Traditions/Eastern/Vedic/Brahman]] or the [[Tao]] - each attempting to grasp this ultimate context within which all contexts arise.
