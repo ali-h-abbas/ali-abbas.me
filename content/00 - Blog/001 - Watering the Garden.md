@@ -2,7 +2,7 @@
 publish: true
 title: 001 - Watering the Garden
 created: 2026-07-29
-modified: 2026-07-29T18:21:37.302-04:00
+modified: 2026-07-30T16:26:36.003-04:00
 tags:
   - blog
 ---
@@ -36,7 +36,8 @@ With Saturn recently retrograde in Aries, opportunity to examine our biggest pro
 ## What I am consuming this week
 
 [The Psychic Architecture of Science Fiction](https://www.youtube.com/watch?v=UcydxPPX6AA) - Formscapes. An exploration by Keelin Morgan on how scifi leverages futuristic settings to anchor in universal [[Archetype|archetypes]] and present-day psychological themes.
-📖 The Soul's Code: In Search of Character and Calling - James Hillman
+[[Ep. 1 - Awakening From the Meaning Crisis - John Vervaeke]]
+The Soul's Code: In Search of Character and Calling - James Hillman
 
 ## Music Lab
 
