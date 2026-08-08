@@ -2,7 +2,7 @@
 publish: true
 title: 002 - What in Causation?!
 created: 2026-08-07
-modified: 2026-08-07T20:15:48.177-04:00
+modified: 2026-08-07T20:26:59.835-04:00
 tags:
   - blog
 ---
@@ -21,7 +21,7 @@ At its simplest, causation answers "Why is something the way it is? What explain
 
 In Western thinking, we credit Aristotle for recognizing that this one question can be answered in radically different ways:
 
-1. [[Material Causation]] - "Why is the sculptue the way it is?" _Because it is made of out of marble_
+1. [[Material Causation]] - "Why is the sculpture the way it is?" _Because it is made of out of marble_
 2. [[Efficient Causation]] - "Why did the vase break?" _Because I dropped it_ (past event pushing forward present effect)
 3. [[Formal Causation]] - "Why is it a vase and not a bowl?" _Because of its [[form]]/pattern_
 4. [[Final Causation]] - "Why does the acorn grow into an oak?" _Because that is its purpose/end_ (future goal that directs present development)
@@ -30,7 +30,7 @@ In the aforementioned video, Morgan explicates the issue with modern science is 
 
 ## Why it matters
 
-We might chalk much of this up to philisopher's obsessing over semantics, but this understanding of causation forms the baselines behind how we think, view the world, and act.
+We might chalk much of this up to philisophers obsessing over semantics, but this understanding of causation forms the baselines behind how we think, view the world, and act.
 
 ### It Determines What You Think is Real
 

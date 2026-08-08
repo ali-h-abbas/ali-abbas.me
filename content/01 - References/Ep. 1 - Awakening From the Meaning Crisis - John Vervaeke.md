@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-07-30
-modified: 2026-07-30T16:33:29.637-04:00
+modified: 2026-07-30T16:42:56.199-04:00
 tags:
   - philosophy
   - meaning-crisis
+  - references
 ---
 
 ![Ep 1.](https://www.youtube.com/watch?si=ke-1KgpKeATwMRIB\&v=54l8_ewcOlY\&feature=youtu.be)
