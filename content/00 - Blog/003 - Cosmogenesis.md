@@ -1,0 +1,42 @@
+---
+publish: true
+created: 2026-08-11
+modified: 2026-08-17T14:46:29.919-04:00
+---
+
+I'd like to continue [[002 - What in Causation|last week's]] thoughts on causality while developing some further ideas that stem from Morgan's dialogue on _[Post-Scientific Naturalism](https://www.youtube.com/watch?v=iAW0dj1EwEI\&t=171s)_. As a quick recap, we did a quick overview of the Aristotelean lens on the four causes and started to explore what we might practically take away and apply in our lives and thinking practically.
+
+On reflecting on this subject further I found myself reflecting on the relationship between causality and [[cosmogony]] - the study of how the world/universe originates and has since ordered itself. This is inclusive of scientific accounts or ideas (like the Big Bang), but also mythological and theological accounts (The Old Testament's [[Genesis]], Hesiod's [[Theogony]], [[Enuma Elish]], etc.)
+
+If you stick with me as I continue to explicate my own thinking, I hope you will come to share the understanding that the categories above (scientific, mythological, theological) are best thought of as a unity rather than in constituent parts. We'll explore this theme continuously in my writing as it's a subject that many of my thoughts and ideas center around and is worthy of deeper exploration. For now, we will take a bite out of this topic through exploring how the bifurcation of the scientific and mythic shows up specifically as it relates to the study of origins.
+
+We will do this first in part, by grounding ourselves in why the study of origins, or [[cosmogony]], is worthy of our attention:
+
+1. **As physics** - The pure scientific view reduces all causality into [[Efficient Causation|efficient]] and [[Material Causation|material]] - it s an exploration of physical "bodies" and how they bump into one another. The cosmogony of this system lies in ideas such as the Big Bang, inflation theory, and theories of galactic formation. This study has direct practical payoff in deriving and understanding the principles and disciplines within our physics by seeking out internally consistent origin stories, while testing the assumptions of the abstract mathematical systems that bring these ideas forth in the first place. This study holds true predictive power.
+2. **As comparative myth/anthropology** - studying cosmogonic myths across cultures is genuinely useful for understanding how human societies structure meaning, authority, and moral order. It's often found that a culture's "origin story" usually encodes itself in where it sees itself in the world as well as its ethics. "How things began" often license "how things ought to be now" from everything from right to rule, to gender roles, to claims on land etc. Anybody looking at the current state of world affairs and the numerous conflicts across these boundaries should have their interest piqued here.
+3. **As philosophy** - cosmogony forces the question of why there is something rather than nothing, which is arguably one of the most stubborn questions in metaphysics. Even without resolution, wrestling with this question sharpens one's thinking about causation, contingency, necessity, and time itself.
+4. **As psychology/depth work** - cosmogonic myths function almost like blueprints for our own life stories, personal and collective development, and map to various elements of our interiority. If you find this claim to be a leap - I encourage you to watch how underlying concepts in depth psychology such as [[The Heros Journey]] are leveraged by Hollywood and marketing firms to influence human emotions at scale.
+
+Read the above back to yourself and really let these registers set in. Be it the use of our natural resources to improve the quality of our life, the capacity to create more ethical systems of governance and states which promote mutual belonging over division, the ability to understand ourselves and our place in our families, communities, and the universe around us - the exploration of cosmogony serves as the unifying pathway to understanding these areas both as parts of a whole as well as in their discrete parts.
+
+Cosmogony is really what bridges causality into [[meaning-making.]] You may have also noted in reading so far that my argument for the relationship of science and myth to be thought of as a unity is in tension with the idea of cosmogony as it is thought of from modern physics. The modern scientific view of physics is that all causality boils down to independent objects and how they interact with one another. This view centers around the core idea of _atoms_ and their sub-particles, how they orbit one another, how their makeup results in how they interact with other atoms, which in turn determines how energy is distributed and applied.
+
+If we carry this view, and it's full weight into discussion on causality and cosmology, we would find that every aspect of our existence is really a biproduct of these unimaginably small particles that we cannot see who burst into action in the Big Bang, generated all sorts of manner of heat and radiation and so on, and then came to at some point create what we would call biological life and ourselves - and continue to be the only causal factor which govern our entire life.
+
+My fingers hitting the keyboard to write out this post is purely the result of the atoms, protons, neutrons, quarks and whatever particles in my hands doing their thing. This presents a significant problem to the reliance we have on cosmogony in [[meaning-making]]. Namely - if the universe is only made of these atomic and subatomic particles bouncing around - which we have no direct interaction or experience of. It is of particular note that atoms are not things we can see, they are mathematical maps of concepts the modern scientific worldview relies on.
+
+How many of us in modernity decry any relationship to the deities, spirits and ancestors that have been documented so beautifully across humanities diverse mythopoetic heritage - yet have silently accepted the absolute authority of atoms and their sub-particles as the sole authors of our history and our fate? What then of any concept of Free Will and our ability to find purpose and meaning in our individual lives? I echo Morgan's perspective here - this is not to say we throw away science as it's fruits are undeniably of value to us. But we do need to recognize it as a map, and a map is not the territory.
+
+The significance we have collectively placed in this worldview is what mathematician and philosopher [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) referred to as [[misplaced concreteness]] - the logical error that occurs when an abstract idea, model or concept was treated as a real, physical thing. Abstractions serve as tools to help us think, concreteness however is our actual lived experience of physical reality. For example:
+
+1. Assuming numbers or physical equations exist in the universe as physical objects as opposed to physical measurement.
+2. Treating social groups with generational labels or cultural stamps and assuming unified persons with a unified mind.
+3. Treating the market or GDP as physical entities that have intent or needs that map to the experience of individual actors.
+
+Consider that this worldview is the one that dominates scientific thought - and by extension has great influence over how we shape and influence the world around us. In the above three examples we can observe how this [[misplaced concreteness]] proliferates the dehumanization and debasement of human existence through the misplaced weight these abstractions have placed on our meaning making.
+
+The solution, thankfully - is what the scientific worldview left on the table, and is still within the realm of empirical and experiential means of understanding. The first of which is [[Formal Causation|formal cause]] - that behind the cold measurements of science are innate patterns, harmonies, and resonances with exist _within_ the universe. It is observable in geometry, can be heard in the harmonies of music, and our psyche is constantly processing it through our receptivity to patterns. These patterns are also observable through the ebb and flow of human experience as experience on a grand scale over periods of history, as well as on an individual scale as told in stories and [[Mythology|myth]].
+
+The second and perhaps more elusive - [[Final Causation|final cause]], is worthy of it's own exploration, next week.
+
+[[002 - What in Causation |Last Week]]
